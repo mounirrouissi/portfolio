@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Microservices in action",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn how to use micrservices to build modern spring boot apps.",
+    "skills": ["Spring Boot","Kafka","Promotheus","Load Balancing"],
+    
+    "source": "https://github.com/mounirrouissi/Microservices/tree/dev"
+  },
+  {
+    "title": "threalai",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn how to integrate AI models into my app through API and how to use cloud storage like S3 or R2",
+    "skills": ["React","Three js", "Open AI api"],
+    "demo": "https://threalai.com/",
+    "source": "https://github.com/mounirrouissi/realai"
+  },
+  {
+    "title": "Images Impainting Project",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn how to integrate spring security with a react app.",
+    "skills": ["React", "Spring Boot", "ML models"],
+    
+    "source": "https://github.com/mounirrouissi/paint_IT_Backend"
+  }
+]

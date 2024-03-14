@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Panthera Srl",
+    "startDate": "March, 2022",
+    "endDate": "October, 2023",
+    "experiences": ["Worked on Multipe Important features", "Worked on the new UI design"],
+    "imageSrc": "history/panthera.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "ISI University",
+    "startDate": "Apr, 2020",
+    "endDate": "November, 2021",
+    "experiences": [
+      "Worked on Android Kotlin mobile App "
+    ],
+    "imageSrc": "history/isi.png"
+  }
+]
