@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Monir</h1>
+        <h1 className={styles.title}>Hi, I'm Mounir</h1>
         <p className={styles.description}>
           I'm a full-stack developer with 2 years of experience using spring boot and javascipt frameworks. Reach out if you'd like to learn more!
         </p>
