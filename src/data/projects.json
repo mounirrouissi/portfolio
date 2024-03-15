@@ -9,7 +9,7 @@
   },
   {
     "title": "threalai",
-    "imageSrc": "projects/threalai.png",
+    "imageSrc": "projects/project.png",
     "description": "This is a project made to learn how to integrate AI models into my app through API and how to use cloud storage like S3 or R2",
     "skills": ["React","Three js", "Open AI api"],
     "demo": "https://threalai.com/",
