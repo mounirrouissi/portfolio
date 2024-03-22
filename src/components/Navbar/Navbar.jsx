@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
+import { FaYoutube } from 'react-icons/fa';
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -37,7 +38,10 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#contact">Contact</a>
-          </li>
+</li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UCk79YOUYiJd2JrfYp3gjdLg"><FaYoutube /> Youtube</a>
+                    </li>
         </ul>
       </div>
     </nav>
